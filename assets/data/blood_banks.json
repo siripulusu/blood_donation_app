@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Red Cross Blood Bank",
+    "address": "MG Road, Bangalore, Karnataka",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "phone": "08012345678",
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  {
+    "name": "Lions Blood Bank",
+    "address": "Abids Road, Hyderabad, Telangana",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "phone": "04023311234",
+    "latitude": 17.3850,
+    "longitude": 78.4867
+  },
+  {
+    "name": "NTR Blood Bank",
+    "address": "Governorpet, Vijayawada, Andhra Pradesh",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "phone": "08661234567",
+    "latitude": 16.5062,
+    "longitude": 80.6480
+  },
+  {
+    "name": "Apollo Blood Bank",
+    "address": "Greams Road, Chennai, Tamil Nadu",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "phone": "04428296500",
+    "latitude": 13.0636,
+    "longitude": 80.2618
+  },
+  {
+    "name": "Indian Red Cross Society",
+    "address": "Red Cross Road, New Delhi",
+    "city": "Delhi",
+    "state": "Delhi",
+    "phone": "01123716441",
+    "latitude": 28.6139,
+    "longitude": 77.2090
+  },
+  {
+    "name": "KEM Hospital Blood Bank",
+    "address": "Acharya Donde Marg, Mumbai, Maharashtra",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "phone": "02224107000",
+    "latitude": 19.0156,
+    "longitude": 72.8562
+  },
+  {
+    "name": "Ruby Hall Clinic Blood Bank",
+    "address": "Sassoon Road, Pune, Maharashtra",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "phone": "02026163391",
+    "latitude": 18.5362,
+    "longitude": 73.8870
+  },
+  {
+    "name": "Rotary Blood Bank",
+    "address": "Vishwas Nagar, Shahdara, Delhi",
+    "city": "Delhi",
+    "state": "Delhi",
+    "phone": "01147314700",
+    "latitude": 28.6623,
+    "longitude": 77.2915
+  },
+  {
+    "name": "Manipal Hospital Blood Bank",
+    "address": "Old Airport Road, Bangalore, Karnataka",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "phone": "08022221111",
+    "latitude": 12.9607,
+    "longitude": 77.6415
+  },
+  {
+    "name": "Gandhi Hospital Blood Bank",
+    "address": "Musheerabad, Secunderabad, Telangana",
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "phone": "04027505566",
+    "latitude": 17.4239,
+    "longitude": 78.5019
+  },
+  {
+    "name": "Sankalp India Foundation",
+    "address": "BTM Layout, Bangalore, Karnataka",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "phone": "08026588444",
+    "latitude": 12.9166,
+    "longitude": 77.6101
+  },
+  {
+    "name": "JIPMER Blood Bank",
+    "address": "Dhanvantri Nagar, Puducherry",
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "phone": "04132291000",
+    "latitude": 11.9408,
+    "longitude": 79.8083
+  },
+  {
+    "name": "AIIMS Blood Bank",
+    "address": "Ansari Nagar, New Delhi",
+    "city": "Delhi",
+    "state": "Delhi",
+    "phone": "01126588500",
+    "latitude": 28.5665,
+    "longitude": 77.2100
+  },
+  {
+    "name": "CMC Blood Bank",
+    "address": "Ida Scudder Road, Vellore, Tamil Nadu",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "phone": "04162280123",
+    "latitude": 12.9216,
+    "longitude": 79.1353
+  },
+  {
+    "name": "Osmania General Hospital Blood Bank",
+    "address": "Afzalgunj, Hyderabad, Telangana",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "phone": "04024600131",
+    "latitude": 17.3697,
+    "longitude": 78.4746
+  }
+]
